@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-misoginuxt-dev-173029-authRole",
+      "UnauthRoleArn": "arn:aws:iam::604126380041:role/amplify-misoginuxt-dev-173029-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::604126380041:role/amplify-misoginuxt-dev-173029-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-misoginuxt-dev-173029-deployment",
+      "UnauthRoleName": "amplify-misoginuxt-dev-173029-unauthRole",
+      "StackName": "amplify-misoginuxt-dev-173029",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:604126380041:stack/amplify-misoginuxt-dev-173029/34f6a6a0-1148-11ec-b9b5-0ec2f24f6987",
+      "AmplifyAppId": "dq3ho7w40f2hy"
+    }
+  }
+}
